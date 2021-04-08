@@ -5,11 +5,11 @@ Welcome to my website! This is the home of all my projects on GitHub.
 
 
 <html>
-extra &nbsp;&nbsp; space
-extra &nbsp;&nbsp; space
-extra &nbsp;&nbsp; space
-extra &nbsp;&nbsp; space
-extra &nbsp;&nbsp; space
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 </html>
 
 <h3>How to support me</h3>
