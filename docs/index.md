@@ -10,6 +10,13 @@ Welcome to my website! This is the home of all my projects on GitHub.
 &nbsp;&nbsp;
 &nbsp;&nbsp;
 &nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
+&nbsp;&nbsp;
 </html>
 
 <h3>How to support me</h3>
